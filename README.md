@@ -30,8 +30,8 @@
 </h3>
 
 <div align="center">
+    <img width="49%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LC606mob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
-  <img width="49%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
 </div>
 
 <div align="center">
