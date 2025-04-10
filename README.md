@@ -31,7 +31,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LC606mob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LC606mob&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6%E2%80%8B**%E2%80%8B&token=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%E2%80%8B**%E2%80%8B" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LC606mob&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6%E2%80%8B**%E2%80%8B&token=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%E2%80%8B**%E2%80%8B" />
 </div>
 
 <div align="center">
